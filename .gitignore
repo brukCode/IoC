@@ -1,0 +1,15 @@
+# Ignore system files
+.DS_Store
+
+# Ignore IDE settings
+.classpath
+.project
+.settings/
+
+# Ignore build artifacts
+target/
+
+# Ignore logs
+*.log
+
+
